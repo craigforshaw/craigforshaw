@@ -54,4 +54,4 @@ I'm Craig Forshaw, passionate about cloud security, infrastructure architecture 
 
 ### GitHub Stats
 
-![Craig's GitHub stats](https://github-readme-stats.vercel.app/api?username=craig4shaw83&show_icons=true&theme=radical)
+![Craig's GitHub stats](https://github-readme-stats.vercel.app/api?username=craigforshaw&show_icons=true&theme=radical)
